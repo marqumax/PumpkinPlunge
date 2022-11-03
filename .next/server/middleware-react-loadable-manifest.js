@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST={"world.tsx -> ../components/world-component":{"id":"world.tsx -> ../components/world-component","files":["static/chunks/components_world-component_tsx.js"]}}
